@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://twitter.com/@madhurdotdev" target="_blank"><img src="./x.svg" alt="X" width="45" height="45" /></a>
-  <a href="https://www.linkedin.com/in/madhurpurohit" target="_blank"><img src="./linkedin.svg" alt="LinkedIn" width="45" height="45" /></a>
+  <a href="https://www.linkedin.com/in/madhur-purohit-686322209" target="_blank"><img src="./linkedin.svg" alt="LinkedIn" width="45" height="45" /></a>
   <a href="https://instagram.com/madhur_purohit_" target="_blank"><img src="./instagram.svg" alt="Instagram" width="45" height="45" /></a>
   <a href="https://www.leetcode.com/dev_madhur" target="_blank"><img src="./leetcode.svg" alt="LeetCode" width="45" height="45" /></a>
   <a href="https://medium.com/@madhurpurohit" target="_blank"><img src="./medium.svg" alt="Medium" width="45" height="45" /></a>
